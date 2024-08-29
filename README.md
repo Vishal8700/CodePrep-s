@@ -8,7 +8,9 @@ Welcome to CodePrep! This project, developed for Verve Bridge, is an online lear
 
 Check out this video to see Quizzel in action! 🎥👇
 
-[![Quizzel Demo](https://img.youtube.com/vi/HMhnEUx7xmA/0.jpg)](https://www.youtube.com/watch?v=HMhnEUx7xmA)
+
+https://github.com/user-attachments/assets/39220119-caf9-45b2-98cb-1e45bc584a93
+
 
 ## Features
 
