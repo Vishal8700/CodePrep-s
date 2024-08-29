@@ -1,0 +1,100 @@
+/* src/InterviewExperiences.css */
+.container_xyz {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 80px;
+  }
+  
+  .interview-header {
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .highlight {
+    color: orange;
+    text-decoration: underline;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .view-more {
+    background-color: orange;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .view-more:hover {
+    background-color: #ff5722;
+  }
+  
+  .card {
+    /* background-color: #121a25; */
+    background-image: url("../assets/bg.webp");
+    color: #fff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Adds space between elements */
+  }
+  
+  .subtitle {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #636160;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .card h2 {
+    font-size: 28px;
+    font-weight: 600;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    margin-bottom: 150px;
+  }
+  
+  
+  
+  .features {
+    display: flex;
+    flex-direction: row; /* Stack the features vertically */
+    gap: 20px; /* Adds space between each feature */
+  }
+  
+  .feature {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between the icon and the text */
+  }
+  
+  .feature svg {
+    color: #ff6b35;
+  }
+  
+  .feature p {
+    font-size: 1rem;
+    color: #bbb;
+    line-height: 1.4;
+  }
+  
