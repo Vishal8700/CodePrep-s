@@ -2,7 +2,7 @@
 
 # CodePrep
 
-Welcome to CodePrep! This project, developed for Verve Bridge, is an online learning platform specifically designed to support developers in mastering coding skills and data structures & algorithms (DSA). CodePrep provides a comprehensive learning experience with interactive lessons, coding challenges, and detailed educational resources.
+Welcome to CodePrep! This is an online learning platform specifically designed to support developers in mastering coding skills and data structures & algorithms (DSA). CodePrep provides a comprehensive learning experience with interactive lessons, coding challenges, and detailed educational resources.
 
 ## Demo Video
 
