@@ -21,11 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "validate-env": "node scripts/validate-env.js",
-    "restart-dev": "node scripts/restart-dev.js",
-    "prestart": "npm run validate-env",
-    "prebuild": "npm run validate-env"
+    "eject": "react-scripts eject"
+   
+ 
   },
   "eslintConfig": {
     "extends": [
