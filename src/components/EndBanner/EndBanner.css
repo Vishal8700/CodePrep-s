@@ -1,0 +1,76 @@
+.end-banner-app {
+ 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .end-banner-container {
+    background-image: url('../assets/bg3.jpg'); /* Semi-transparent black box */
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    max-width: 1200px;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    padding: 40px;
+    border-radius: 20px;
+  }
+  
+  .end-banner-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .end-banner-content h1 {
+    font-size: 2rem;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .end-banner-content p {
+    font-size: 0.8rem;
+    text-align: left;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  
+  .end-banner-button {
+    background-color: #f0f0f0;
+    color: #121212;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    align-items: start;
+    font-size: 1rem;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .end-banner-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .end-banner-logos {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .end-banner-logos img {
+    width: 150px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+  }
+  
+  .end-banner-logos img:hover {
+    filter: grayscale(0%);
+  }
+  
